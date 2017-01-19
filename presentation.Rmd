@@ -1,5 +1,5 @@
 ---
-title: "Le vote FN"
+title: "Éléments sur le vote FN"
 author: "Joël Gombin"
 date: "frama.link/fsu"
 output: 
