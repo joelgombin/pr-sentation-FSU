@@ -1,0 +1,84 @@
+---
+title: "Le vote FN"
+author: "Joël Gombin"
+date: "19 janvier 2017"
+output: 
+  ioslides_presentation:
+    incremental: true
+    css: styles.css
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      message = FALSE, 
+                      warning = FALSE, 
+                      cache = TRUE, 
+                      autodep = TRUE,
+                      out.width = '800px',
+                      out.height = '520px',
+                      fig.width = 8,
+                      fig.height = 5.2)
+```
+
+
+# Un niveau en nette augmentation
+
+## Un niveau en nette augmentation {.flexbox .vcenter}
+
+<center>
+<img src='./images/niveau_regionales.png' width=90%></img>
+</center>
+
+# Une structure géographique stable 
+
+## Une structure géographique stable {.flexbox .vcenter}
+
+<center>
+<img src='./images/figure3.png' width=70%></img>
+</center>
+
+## Un rééquilibrage géographique ? {.flexbox .vcenter}
+
+<center>
+<img src='./images/figure4.png' width=70%></img>
+</center>
+
+## Un rééquilibrage géographique ? {.flexbox .vcenter}
+
+<center>
+<img src='./images/figure5.png' width=70%></img>
+</center>
+
+## Une dimension centre-périphérie pas déterminante {.flexbox .vcenter}
+
+<center>
+<img src='./images/figure6.png' width=60%></img>
+</center>
+
+## La géographie des inégalités {.flexbox .vcenter}
+
+<center>
+<img src='./images/gini.png' width=100%></img>
+</center>
+
+## Et aux régionales ? {.flexbox .vcenter}
+
+<center>
+<img src='./images/evolution_resultats-1.png' width=70%></img>
+</center>
+
+## Et aux régionales ? {.flexbox .vcenter}
+
+<center>
+<img src='./images/resultats-1.png' width=70%></img>
+</center>
+
+
+## Et aux régionales ? {.flexbox .vcenter}
+
+<center>
+<img src='./images/comparaison_avec_2012_FN-1.png' width=65%></img>
+</center>
+
+# Merci !
