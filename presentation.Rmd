@@ -65,7 +65,7 @@ knitr::opts_chunk$set(echo = FALSE,
 ## Un, deux, trois électorats FN ? {.flexbox .vcenter}
 
 <center>
-<a href='https://www.monde-diplomatique.fr/2015/12/GOMBIN/54357'><img src='./images/3visages.png' width=95%></img></a>
+<a href='https://www.monde-diplomatique.fr/2015/12/GOMBIN/54357'><img src='./images/visages.png' width=95%></img></a>
 </center>
 
 
